@@ -1,0 +1,37 @@
+body
+{
+  color: white;
+  background-image: url("boot_cat.jpg");
+  background-size: contain;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_hand_name ,#result_hand_name2  
+{
+  color: black;
+}
+.hand_name
+{
+  font-size: 40px;
+}
+.hand
+{
+  font-size:48px;
+}
+label{
+  font-family: 'Josefin Sans', sans-serif;
+}
+div{
+  font-family: 'Josefin Sans', sans-serif;
+}
+#header{
+  font-size:75px;
+}
